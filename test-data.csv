@@ -1,0 +1,3 @@
+testName,url,loanAmount,loanReason,title,firstName,lastName,dob,phone,employmentStatus,jobTitle,employmentStartDate,grossAnnualIncome,netMonthlyIncome,otherIncome,postcode,selectedAddress,moveInDate,housingStatus,mortgageAmount,maritalStatus,dependents
+Complete Loan Application Test 1,https://rc-borrowui.saldev.net/app-rec/BorrowHome,2000,rent deposit,Ms,JoTest,TheWater,01/01/1980,7452856254,Employed Full Time,Owner,01/2000,61000,10,10,E16AN,12A Brushfield Street,01/2000,Owner (mortgage),200,Widowed,0
+Complete Loan Application Test 2,https://rc-borrowui.saldev.net/app-rec/BorrowHome,3000,rent deposit,Ms,MoTest,Walter,01/01/1980,7452856254,Employed Full Time,Owner,01/2000,71000,100,101,E16AN,12A Brushfield Street,01/2000,Owner (mortgage),202,Widowed,0
